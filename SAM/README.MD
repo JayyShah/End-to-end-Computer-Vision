@@ -1,7 +1,5 @@
 # SAM - Segment Anything Model
 
-*Note: Check the code implementation of SAM model in the Notebooks Directory*
-
 # What do you exactly mean By Segment Anything?
 
 - The Segment Anything Model (SAM) is an instance segmentation model developed by Meta Research and released in April, 2023. Segment Anything was trained on 11 million images and 1.1 billion segmentation masks.
